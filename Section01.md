@@ -11,7 +11,7 @@
 ***
 
 ## 04 - Introduction, and installing the course material, `IntelliJ`, and Scala
-
+* https://www.sundog-education.com/sparkscala/
 ***
 
 ## 05 - Introduction to Apache Spark
