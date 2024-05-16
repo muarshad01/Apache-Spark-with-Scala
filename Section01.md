@@ -42,7 +42,7 @@ object HelloWorld {
 * Why Scala?
   * Spark itself is written in Scala
   * Scala's functional programming model is good fit for distributed processing
-  * Give fast performance (Scala compiles to bytecode)
+  * Gives fast performance (Scala compiles to bytecode)
   * Less code than Java
   * Python is slower in comparision
 
