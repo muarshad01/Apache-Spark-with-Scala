@@ -11,8 +11,8 @@
 ***
 
 ## 04 - Introduction, and installing the course material, `IntelliJ`, and Scala
-* https://www.sundog-education.com/sparkscala/
-
+#### https://www.sundog-education.com/sparkscala/
+* File `HelloWorld.scala`
 ```scala
 package com.sundogsoftware.spark
 
