@@ -6,7 +6,7 @@
 
 ## Lecture Nodes
 
-* [Section 01: Getting Started with Spark](https://github.com/muarshad01/Apache-Spark-with-Scala/blob/main/Section01.md)
+* [Section 01: Getting Started with Spark](https://github.com/muarshad01/Apache-Spark-with-Scala/blob/main/Section01.md) -- May 15, 2024
 * [Section 02: Scala Crash Course](https://github.com/muarshad01/Apache-Spark-with-Scala/blob/main/Section02.md)
 * [Section 03: Understanding Resilient Distributed Datasets (RDDs)](https://github.com/muarshad01/Apache-Spark-with-Scala/blob/main/Section03.md)
 * [Section 04: SparkSQL, DataFrames, and DataSets](https://github.com/muarshad01/Apache-Spark-with-Scala/blob/main/Section04.md)
