@@ -39,7 +39,12 @@ object HelloWorld {
 ***
 
 ## 05 - Introduction to Apache Spark
-* Quiz 1: Spark Basics
+* Why Scala?
+  * Spark itself is written in Scala
+  * Scala's functional programming model is good fit for distributed processing
+  * Give fast performance (Scala compiles to bytecode)
+  * Less code than Java
+  * Python is slower in comparision
 
 ***
 
