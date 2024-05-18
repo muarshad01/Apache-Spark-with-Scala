@@ -23,6 +23,8 @@
 ***
 
 ## Java
-```/Library/Java/JavaVirtualMachines/sfdc-openjdk_11.0.21.0.102_11.69.52.jdk/Contents/Home/bin/java ...
+
+```
+/Library/Java/JavaVirtualMachines/sfdc-openjdk_11.0.21.0.102_11.69.52.jdk/Contents/Home/bin/java ...
 ```
 ***
