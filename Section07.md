@@ -1,4 +1,7 @@
 ## 53 - Introducing MLLib
+* The previous API was called `MLLlib` and used RDDs and some specialized data structures
+* `MLLib` is deprecated in Spark 3
+* The newer ML library just used `DataFrames` for everything
 
 ***
 
