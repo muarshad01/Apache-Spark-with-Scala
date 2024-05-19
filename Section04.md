@@ -1,4 +1,5 @@
 ## 24 - Introduction to SparkSQL
+* [DataSet](https://spark.apache.org/docs/latest/api/scala/org/apache/spark/sql/Dataset.html)
 
 ***
 
