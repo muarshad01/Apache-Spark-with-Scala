@@ -33,8 +33,9 @@ object SparkSQLDataset {
       .option("header", "true")
       .option("inferSchema", "true")
       .csv("data/fakefriends.csv")
-      .as[Person]
+      .as[Person]            # if we comment out `.as[Person]` then schemaPeople is aDataFrame
 
+    # schemaPeople DataSet
     schemaPeople.printSchema()
     
     schemaPeople.createOrReplaceTempView("people")
@@ -49,6 +50,7 @@ object SparkSQLDataset {
   }
 }
 ```
+* Schema has been infered at run-time. That is the main difference between DataFrame and DataSet.
 ***
 
 ## 26 - [Activity] Using DataSets
