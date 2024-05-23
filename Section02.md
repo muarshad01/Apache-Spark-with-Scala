@@ -73,6 +73,19 @@ println(squareIt(2))
 println(cubeIt(3))
 ```
 
+```scala
+def transformInt(x : Int, f: Int => Int ) : Int = { f(x) }
+val result = transformInt(2, cubeIt)
+println(result)
+```
+
+```scala
+transformInt(3, x => x * x * x)
+transformInt(3, x => x / 2)
+transformInt(2, x => {val y = x * 2; y * y})
+
+```
+
 ***
 
 ## 10 - [Exercise] Data Structures in Scala
