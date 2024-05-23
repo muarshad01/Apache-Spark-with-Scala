@@ -23,7 +23,6 @@ val bigNumber: Long = 123456789
 val smallNumber: Byte = 127
 
 println(f"Pi is about $piSinglePrecision%.3f")
-
 println(s"I can use the s prefix to use variable like $numberOne $truth $letterA")
 ```
 
