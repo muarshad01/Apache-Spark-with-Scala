@@ -54,6 +54,13 @@ number match {
 }
 ```
 
+```scala
+for (x <- 1 to 4) {
+  squared = x * x
+  println (squared)
+}
+```
+
 ***
 
 ## 09 - [Exercise] Functions in Scala
