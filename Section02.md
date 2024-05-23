@@ -152,4 +152,17 @@ val maxValue = numberList.max
 val total = numberList.sum
 val hasThree = iHateThrees.contains(3)
 ```
+
+```scala
+// MAPS
+val shipMap = Map("Kirk" -> "Enterprise",
+                  "Picard" -> "Enterprise-D",
+                  "Sisko" -> "Deep Space Nine",
+                  "Janeway" -> "Voyager")
+print(shipMap("Janeway"))
+print(shipMap.contains("Archer"))
+
+val archerShip = util.Try(shipMap("Archer")) getOrElse "UnKnown"
+println(archerShip)
+```
 ***
