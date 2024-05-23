@@ -65,6 +65,14 @@ for (x <- 1 to 4) {
 
 ## 09 - [Exercise] Functions in Scala
 
+```scala
+def squareIt(x : Int) : Int = { x * x}
+def cubeIt(x : Int) : Int = { x * x * x}
+
+println(squareIt(2))
+println(cubeIt(3))
+```
+
 ***
 
 ## 10 - [Exercise] Data Structures in Scala
