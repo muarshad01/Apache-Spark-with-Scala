@@ -34,6 +34,13 @@ val answer = answerString.toInt
 print(answer)
 ```
 
+```scala
+val isGreater = 1 > 2
+val isLesser = 1 < 2
+val impossible = isGreater & isLesser
+val anotherWay = isGreater & isLesser
+```
+
 ***
 
 ## 08 - [Exercise] Flow Control in Scala
