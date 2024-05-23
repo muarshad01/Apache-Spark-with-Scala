@@ -139,11 +139,11 @@ val iHateFives = numberList.filter( (x : Int) => x != 5)
 val iHateThrees = numberList.filter( _ != 3)
 ```
 
-// Concatenate lists
 ```scala
+
+// Concatenate lists
 val moreNumbers = List(6,7,8)
 val lotsOfNumbers = numberList ++ moreNumbers
-
 val reversed =  numberList.reverse
 val sorted = reversed.sorted
 val lotsOfDuplicates = numberList ++ numberList
