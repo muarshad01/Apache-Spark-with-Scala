@@ -90,4 +90,47 @@ transformInt(2, x => {val y = x * 2; y * y})
 
 ## 10 - [Exercise] Data Structures in Scala
 
+```scala
+// Data Structures
+
+// Tuples
+// Immutable lists
+
+val captainStuff = ("Picard", "Enterprise-D", "NCC-1701-D")
+println(captainStuff)
+
+println(captainStuff._1)
+println(captainStuff._2)
+println(captainStuff._3)
+
+val picardShip = "Picard" -> "Enterprise-D"
+println(picardShip._2)
+
+val aBonusStuff = ("Kirk", 1964, true)
+```
+
+```scala
+// Lists
+// Like a tuple, but more functionality
+// Must be of same type
+
+val shipList = List("Enterprise", "Defiant", "Voyager", "Deep Sea")
+print(shipList(1))
+// zero based
+
+print(shipList.head)
+print(shipList.tail)
+
+for (ship <- shipList) { print(ship) }
+val backwardShips = shipList.map((ship: string) => {ship.reverse})
+for (ship <- shipList) { print(ship) }
+```
+
+```scala
+// reduce
+val numberList = List(1, 2, 3, 4, 5)
+val sum = numberList.reduce( (x : Int, y : Int) => x + y)
+print(sum)
+```
+
 ***
