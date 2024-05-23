@@ -1,5 +1,4 @@
 ## 07 - [Activity] Scala Basics
-
 ```scala
 // VALUES are immutable constants
 val hello: string = hello
