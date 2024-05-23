@@ -133,4 +133,23 @@ val sum = numberList.reduce( (x : Int, y : Int) => x + y)
 print(sum)
 ```
 
+```scala
+// filter
+val iHateFives = numberList.filter( (x : Int) => x != 5)
+val iHateThrees = numberList.filter( _ != 3)
+```
+
+// Concatenate lists
+```scala
+val moreNumbers = List(6,7,8)
+val lotsOfNumbers = numberList ++ moreNumbers
+
+val reversed =  numberList.reverse
+val sorted = reversed.sorted
+val lotsOfDuplicates = numberList ++ numberList
+val distinctValues = lotsOfDuplicates.distinct
+val maxValue = numberList.max
+val total = numberList.sum
+val hasThree = iHateThrees.contains(3)
+```
 ***
