@@ -1,5 +1,7 @@
 ## 44 - [Activity] Using spark-submit to run Spark driver scripts
-
+```
+$ spark-submit -class com.sundogsoftware.spark.HelloWorld SparkCourse.jar
+```
 ***
 
 ## 45 - [Activity] Packaging driver scripts with SBT
