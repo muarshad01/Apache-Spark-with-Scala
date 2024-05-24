@@ -6,6 +6,8 @@ $ spark-submit -class com.sundogsoftware.spark.HelloWorld SparkCourse.jar
 
 ## 45 - [Activity] Packaging driver scripts with SBT
 
+* [Scala Build Tool (SBT)](https://www.scala-sbt.org/)
+
 ***
 
 ## 46 - [Exercise] Package a Script with SBT and Run it Locally with spark-submit
