@@ -15,7 +15,7 @@
 * [Section 06: Running Sprak on a Cluster](https://github.com/muarshad01/Apache-Spark-with-Scala/blob/main/Section06.md)
 * [Section 07: Machine Learning with Spark ML](https://github.com/muarshad01/Apache-Spark-with-Scala/blob/main/Section07.md) -- May 23, 2024
 * [Section 08: Introduction to Spark Streaming](https://github.com/muarshad01/Apache-Spark-with-Scala/blob/main/Section08.md) -- TODO
-* [Section 09: Introduction to GraphX](https://github.com/muarshad01/Apache-Spark-with-Scala/blob/main/Section09.md)
+* [Section 09: Introduction to GraphX](https://github.com/muarshad01/Apache-Spark-with-Scala/blob/main/Section09.md) -- TODO
 
 ***
 
