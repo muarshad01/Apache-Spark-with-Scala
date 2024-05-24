@@ -35,6 +35,6 @@ $ spark-submit -class com.sundogsoftware.spark.HelloWorld SparkCourse.jar
 ***
 
 ## 52 - Troubleshooting, and Managing Dependencies
-Quiz 4: Quiz: Spark on a Cluster
+* Your master will run a console on port `4040`.
 
 ***
