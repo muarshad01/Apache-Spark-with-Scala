@@ -8,6 +8,7 @@
 
 * [Section 01: Getting Started with Spark](https://github.com/muarshad01/Apache-Spark-with-Scala/blob/main/Section01.md) -- May 15, 2024
 * [Section 02: Scala Crash Course](https://github.com/muarshad01/Apache-Spark-with-Scala/blob/main/Section02.md) -- May 23, 2024
+    * [Scala Tutorial](https://www.tutorialspoint.com/scala/index.htm)
 * [Section 03: Understanding Resilient Distributed Datasets (RDDs)](https://github.com/muarshad01/Apache-Spark-with-Scala/blob/main/Section03.md) -- May 18, 2024
 * [Section 04: SparkSQL, DataFrames, and DataSets](https://github.com/muarshad01/Apache-Spark-with-Scala/blob/main/Section04.md) -- May 19, 2024
 * [Section 05: Advanced Examples of Spark Programs](https://github.com/muarshad01/Apache-Spark-with-Scala/blob/main/Section05.md) -- May 19, 2024
